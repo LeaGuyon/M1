@@ -1,0 +1,9 @@
+commande de séparation le l'enregistrement minicom :
+	cat minicom.cap   | sed 's/F_ERR://g'						// effacer la chaine F_ERR:
+	cat minicom.cap   | cut -d\: -f1,2							//affichage des blocs 1 et 2 en fonction du séparateur :
+	cat minicom.cap   | cut -d\: -f2							//affichage des blocs 2 en fonction du séparateur :
+	cat minicom.cap   | cut -d\: -f1							//affichage des blocs 1 en fonction du séparateur :
+	cat toto													// ouverture du fichier toto
+	cat minicom.cap   | sed 's/F_ERR://g' > toto				//enregistrement des modif dans le fichier toto
+	cat minicom.cap   | sed 's/F_ERR:/toto/g'					// ajout de la chaine toto à l'enregistrement
+	

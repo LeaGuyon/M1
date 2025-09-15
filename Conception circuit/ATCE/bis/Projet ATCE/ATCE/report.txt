@@ -1,0 +1,391 @@
+Info: Traitement du symbole "C1:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "C6:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "C9:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder".
+Info: Traitement du symbole "C7:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "J2:Connector_Coaxial:SMA_Amphenol_132134-14_Vertical".
+Info: Traitement du symbole "J1:Connector_USB:USB_Micro-B_Molex-105017-0001".
+Info: Traitement du symbole "C8:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "J3:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Info: Traitement du symbole "C10:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "C4:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "C3:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "C5:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "C2:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "D1:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder".
+Info: Traitement du symbole "R2:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder".
+Info: Traitement du symbole "R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder".
+Info: Traitement du symbole "R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder".
+Info: Traitement du symbole "R5:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder".
+Info: Traitement du symbole "SW1:Button_Switch_THT:SW_PUSH_6mm".
+Info: Traitement du symbole "SW2:Button_Switch_THT:SW_PUSH_6mm".
+Info: Traitement du symbole "TP1:TestPoint:TestPoint_Pad_D2.0mm".
+Info: Traitement du symbole "U1:Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm".
+Info: Traitement du symbole "U2:Package_TO_SOT_SMD:TSOT-23-6".
+Info: Traitement du symbole "Y1:Crystal:Crystal_HC49-U_Vertical".
+Ajout net GND.
+Connecter C1 pin 2 à GND.
+Ajouté C2 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Change la référence schématique de REF** en C2.
+Modifie valeur C2 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 18pF.
+Mise à jour C2 association de symbole de  à /bc3e9982-0eae-4d80-9189-5f48df242c4f.
+Mise a Jour des Champs de C2.
+Mis à jour C2 nom de feuille en /.
+Mis à jour C2 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte C2 mis à jour en 'C_*'.
+Connecter C2 pin 1 à GND.
+Ajout net Net-(U1-XTAL1).
+Connecter C2 pin 2 à Net-(U1-XTAL1).
+Ajouté C3 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Change la référence schématique de REF** en C3.
+Modifie valeur C3 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 10nF.
+Mise à jour C3 association de symbole de  à /a7ea4ac2-a96a-40cb-a72b-3bd1a72069d4.
+Mise a Jour des Champs de C3.
+Mis à jour C3 nom de feuille en /.
+Mis à jour C3 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte C3 mis à jour en 'C_*'.
+Ajout net Net-(D1-K).
+Connecter C3 pin 1 à Net-(D1-K).
+Connecter C3 pin 2 à Net-(U1-XTAL1).
+Ajouté C4 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Change la référence schématique de REF** en C4.
+Modifie valeur C4 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 18pF.
+Mise à jour C4 association de symbole de  à /a1d886cc-db70-4a55-9281-0284a524c91c.
+Mise a Jour des Champs de C4.
+Mis à jour C4 nom de feuille en /.
+Mis à jour C4 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte C4 mis à jour en 'C_*'.
+Ajout net Net-(U2-+).
+Connecter C4 pin 2 à Net-(U2-+).
+Connecter C4 pin 1 à GND.
+Ajouté C5 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Change la référence schématique de REF** en C5.
+Modifie valeur C5 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 1u.
+Mise à jour C5 association de symbole de  à /7b5305d6-5371-4f59-9efc-0586e72f576d.
+Mise a Jour des Champs de C5.
+Mis à jour C5 nom de feuille en /.
+Mis à jour C5 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte C5 mis à jour en 'C_*'.
+Connecter C5 pin 2 à GND.
+Ajout net Net-(U1-UCAP).
+Connecter C5 pin 1 à Net-(U1-UCAP).
+Ajouté C6 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Change la référence schématique de REF** en C6.
+Modifie valeur C6 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 100n.
+Mise à jour C6 association de symbole de  à /af7600b8-4a0e-4e7f-9359-6be9a9698628.
+Mise a Jour des Champs de C6.
+Mis à jour C6 nom de feuille en /.
+Mis à jour C6 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte C6 mis à jour en 'C_*'.
+Connecter C6 pin 2 à GND.
+Ajout net 5V.
+Connecter C6 pin 1 à 5V.
+Ajouté C7 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Change la référence schématique de REF** en C7.
+Modifie valeur C7 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 100n.
+Mise à jour C7 association de symbole de  à /c980d0e9-7977-47c0-847b-07a3ad9aa3b1.
+Mise a Jour des Champs de C7.
+Mis à jour C7 nom de feuille en /.
+Mis à jour C7 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte C7 mis à jour en 'C_*'.
+Connecter C7 pin 1 à 5V.
+Connecter C7 pin 2 à GND.
+Ajouté C8 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Change la référence schématique de REF** en C8.
+Modifie valeur C8 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 100n.
+Mise à jour C8 association de symbole de  à /c15bce30-18e8-4484-bbab-a222b41ca99c.
+Mise a Jour des Champs de C8.
+Mis à jour C8 nom de feuille en /.
+Mis à jour C8 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte C8 mis à jour en 'C_*'.
+Connecter C8 pin 2 à GND.
+Connecter C8 pin 1 à 5V.
+Ajouté C9 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Change la référence schématique de REF** en C9.
+Modifie valeur C9 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 100n.
+Mise à jour C9 association de symbole de  à /bf91c4cc-232b-4716-b6be-9f81fb9e6b9e.
+Mise a Jour des Champs de C9.
+Mis à jour C9 nom de feuille en /.
+Mis à jour C9 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte C9 mis à jour en 'C_*'.
+Connecter C9 pin 1 à 5V.
+Connecter C9 pin 2 à GND.
+Ajouté C10 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Change la référence schématique de REF** en C10.
+Modifie valeur C10 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 100n.
+Mise à jour C10 association de symbole de  à /0e916295-00a8-4287-8072-0f571d0cf96b.
+Mise a Jour des Champs de C10.
+Mis à jour C10 nom de feuille en /.
+Mis à jour C10 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte C10 mis à jour en 'C_*'.
+Connecter C10 pin 2 à 5V.
+Connecter C10 pin 1 à GND.
+Ajouté D1 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Change la référence schématique de REF** en D1.
+Modifie valeur D1 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 10pF.
+Mise à jour D1 association de symbole de  à /396c710e-40e2-4c90-a2c8-da0f9082d314.
+Mise a Jour des Champs de D1.
+Mis à jour D1 nom de feuille en /.
+Mis à jour D1 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte D1 mis à jour en 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connecter D1 pin 2 à GND.
+Connecter D1 pin 1 à Net-(D1-K).
+Ajouté J1 (empreinte 'Connector_USB:USB_Micro-B_Molex-105017-0001').
+Change la référence schématique de REF** en J1.
+Modifie valeur J1 de USB_Micro-B_Molex-105017-0001 en USB_OTG.
+Mise à jour J1 association de symbole de  à /40fac554-fe7b-4e39-9616-ac8a54b17bab.
+Mise a Jour des Champs de J1.
+Mis à jour J1 nom de feuille en /.
+Mis à jour J1 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte J1 mis à jour en 'USB*'.
+Ajout net unconnected-(J1-Shield-Pad6).
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6).
+Ajout net unconnected-(J1-Shield-Pad6)_1.
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6)_1.
+Ajout net unconnected-(J1-ID-Pad4).
+Connecter J1 pin 4 à unconnected-(J1-ID-Pad4).
+Connecter J1 pin 5 à GND.
+Ajout net unconnected-(J1-Shield-Pad6)_2.
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6)_2.
+Ajout net unconnected-(J1-Shield-Pad6)_3.
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6)_3.
+Ajout net unconnected-(J1-Shield-Pad6)_4.
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6)_4.
+Ajout net unconnected-(J1-Shield-Pad6)_5.
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6)_5.
+Ajout net Net-(J1-D-).
+Connecter J1 pin 2 à Net-(J1-D-).
+Ajout net unconnected-(J1-Shield-Pad6)_6.
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6)_6.
+Connecter J1 pin 1 à 5V.
+Ajout net unconnected-(J1-Shield-Pad6)_7.
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6)_7.
+Ajout net Net-(J1-D+).
+Connecter J1 pin 3 à Net-(J1-D+).
+Ajouté J2 (empreinte 'Connector_Coaxial:SMA_Amphenol_132134-14_Vertical').
+Change la référence schématique de REF** en J2.
+Modifie valeur J2 de SMA_Amphenol_132134-14_Vertical en Conn_Coaxial.
+Mise à jour J2 association de symbole de  à /9470fb90-9069-4b5c-91af-5241184690db.
+Mise a Jour des Champs de J2.
+Mis à jour J2 nom de feuille en /.
+Mis à jour J2 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte J2 mis à jour en '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*'.
+Connecter J2 pin 2 à GND.
+Connecter J2 pin 2 à GND.
+Connecter J2 pin 2 à GND.
+Connecter J2 pin 2 à GND.
+Ajout net Net-(J2-In).
+Connecter J2 pin 1 à Net-(J2-In).
+Ajouté J3 (empreinte 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Change la référence schématique de REF** en J3.
+Modifie valeur J3 de PinHeader_1x02_P2.54mm_Vertical en Conn_01x02_Socket.
+Mise à jour J3 association de symbole de  à /3ed8fbd4-9df7-4377-8790-32ccd4884612.
+Mise a Jour des Champs de J3.
+Mis à jour J3 nom de feuille en /.
+Mis à jour J3 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte J3 mis à jour en 'Connector*:*_1x??_*'.
+Connecter J3 pin 1 à 5V.
+Connecter J3 pin 2 à GND.
+Ajouté R1 (empreinte 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Change la référence schématique de REF** en R1.
+Modifie valeur R1 de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder en 22.
+Mise à jour R1 association de symbole de  à /9ea2cdd4-781b-48da-ae23-b40cb526c02c.
+Mise a Jour des Champs de R1.
+Mis à jour R1 nom de feuille en /.
+Mis à jour R1 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte R1 mis à jour en 'R_*'.
+Ajout net Net-(U1-D+).
+Connecter R1 pin 2 à Net-(U1-D+).
+Connecter R1 pin 1 à Net-(J1-D+).
+Ajouté C1 (empreinte 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Ajouté R2 (empreinte 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Change la référence schématique de REF** en R2.
+Modifie valeur R2 de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder en 5k.
+Mise à jour R2 association de symbole de  à /e215b9b5-21f0-40c5-9ffe-2480dafc011d.
+Mise a Jour des Champs de R2.
+Mis à jour R2 nom de feuille en /.
+Mis à jour R2 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte R2 mis à jour en 'R_*'.
+Connecter R2 pin 1 à 5V.
+Ajout net Net-(SW2-A).
+Connecter R2 pin 2 à Net-(SW2-A).
+Change la référence schématique de REF** en C1.
+Ajouté R3 (empreinte 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Change la référence schématique de REF** en R3.
+Modifie valeur R3 de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder en 5k.
+Mise à jour R3 association de symbole de  à /8309c3ca-e5a8-4fcf-b243-5ab309597ce7.
+Mise a Jour des Champs de R3.
+Mis à jour R3 nom de feuille en /.
+Mis à jour R3 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte R3 mis à jour en 'R_*'.
+Ajout net Net-(U2--).
+Connecter R3 pin 1 à Net-(U2--).
+Connecter R3 pin 2 à Net-(D1-K).
+Modifie valeur C1 de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder en 18pF.
+Ajouté R4 (empreinte 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Change la référence schématique de REF** en R4.
+Modifie valeur R4 de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder en 5k.
+Mise à jour R4 association de symbole de  à /ba98ee05-28a0-4fec-b2c7-471de7874418.
+Mise a Jour des Champs de R4.
+Mis à jour R4 nom de feuille en /.
+Mis à jour R4 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte R4 mis à jour en 'R_*'.
+Ajout net Net-(U1-PD7).
+Connecter R4 pin 1 à Net-(U1-PD7).
+Connecter R4 pin 2 à Net-(U2-+).
+Mise à jour C1 association de symbole de  à /2065ec70-e3b4-4c22-b9ab-fddca74123f6.
+Ajouté R5 (empreinte 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Change la référence schématique de REF** en R5.
+Modifie valeur R5 de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder en 22.
+Mise à jour R5 association de symbole de  à /c61a60a9-e8c8-4c7c-9839-eacf874d98b6.
+Mise a Jour des Champs de R5.
+Mis à jour R5 nom de feuille en /.
+Mis à jour R5 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte R5 mis à jour en 'R_*'.
+Connecter R5 pin 1 à Net-(J1-D-).
+Ajout net Net-(U1-D-).
+Connecter R5 pin 2 à Net-(U1-D-).
+Mise a Jour des Champs de C1.
+Ajouté SW1 (empreinte 'Button_Switch_THT:SW_PUSH_6mm').
+Change la référence schématique de REF** en SW1.
+Modifie valeur SW1 de SW_PUSH_6mm en ~.
+Mise à jour SW1 association de symbole de  à /ef68f13a-5d36-4de3-bb70-991f59bb68d4.
+Mise a Jour des Champs de SW1.
+Mis à jour SW1 nom de feuille en /.
+Mis à jour SW1 fichier de feuille en ATCE.kicad_sch.
+Ajout net Net-(SW1-B).
+Connecter SW1 pin 2 à Net-(SW1-B).
+Connecter SW1 pin 2 à Net-(SW1-B).
+Connecter SW1 pin 1 à GND.
+Connecter SW1 pin 1 à GND.
+Mis à jour C1 nom de feuille en /.
+Ajouté SW2 (empreinte 'Button_Switch_THT:SW_PUSH_6mm').
+Change la référence schématique de REF** en SW2.
+Modifie valeur SW2 de SW_PUSH_6mm en ~.
+Mise à jour SW2 association de symbole de  à /6fa9929f-dcfa-4b40-9de7-fa9f3185c3cd.
+Mise a Jour des Champs de SW2.
+Mis à jour SW2 nom de feuille en /.
+Mis à jour SW2 fichier de feuille en ATCE.kicad_sch.
+Connecter SW2 pin 2 à GND.
+Connecter SW2 pin 1 à Net-(SW2-A).
+Connecter SW2 pin 2 à GND.
+Connecter SW2 pin 1 à Net-(SW2-A).
+Mis à jour C1 fichier de feuille en ATCE.kicad_sch.
+Ajouté TP1 (empreinte 'TestPoint:TestPoint_Pad_D2.0mm').
+Change la référence schématique de REF** en TP1.
+Modifie valeur TP1 de TestPoint_Pad_D2.0mm en TestPoint.
+Mise à jour TP1 association de symbole de  à /af6a0c5e-b87c-4aa8-9060-91ecb0f2ee86.
+Mise a Jour des Champs de TP1.
+Mis à jour TP1 nom de feuille en /.
+Mis à jour TP1 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte TP1 mis à jour en 'Pin* Test*'.
+Suppression attribut de fabrication "exclure de BOM"  pour TP1.
+Connecter TP1 pin 1 à Net-(U1-PD7).
+Filtres d'empreinte C1 mis à jour en 'C_*'.
+Ajouté U1 (empreinte 'Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm').
+Change la référence schématique de REF** en U1.
+Modifie valeur U1 de QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm en ATmega16U4-M.
+Mise à jour U1 association de symbole de  à /e3ff7d58-26e0-488a-ae6b-73be73b9cd60.
+Mise a Jour des Champs de U1.
+Mis à jour U1 nom de feuille en /.
+Mis à jour U1 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte U1 mis à jour en 'QFN*1EP*7x7mm*P0.5mm*'.
+Ajout net unconnected-(U1-PD3-Pad21).
+Connecter U1 pin 21 à unconnected-(U1-PD3-Pad21).
+Connecter U1 pin 5 à GND.
+Ajout net unconnected-(U1-PB7-Pad12).
+Connecter U1 pin 12 à unconnected-(U1-PB7-Pad12).
+Connecter U1 pin 6 à Net-(U1-UCAP).
+Ajout net unconnected-(U1-PF0-Pad41).
+Connecter U1 pin 41 à unconnected-(U1-PF0-Pad41).
+Ajout net unconnected-(U1-PD0-Pad18).
+Connecter U1 pin 18 à unconnected-(U1-PD0-Pad18).
+Ajout net unconnected-(U1-PE6-Pad1).
+Connecter U1 pin 1 à unconnected-(U1-PE6-Pad1).
+Connecter U1 pin 33 à Net-(SW2-A).
+Connecter U1 pin 44 à 5V.
+Connecter U1 pin 35 à GND.
+Connecter U1 pin 45 à GND.
+Ajout net unconnected-(U1-PF1-Pad40).
+Connecter U1 pin 40 à unconnected-(U1-PF1-Pad40).
+Connecter U1 pin 7 à 5V.
+Ajout net unconnected-(U1-PB6-Pad30).
+Connecter U1 pin 30 à unconnected-(U1-PB6-Pad30).
+Ajout net unconnected-(U1-PB4-Pad28).
+Connecter U1 pin 28 à unconnected-(U1-PB4-Pad28).
+Connecter U1 pin 16 à Net-(U1-XTAL2).
+Connecter U1 pin 24 à 5V.
+Ajout net unconnected-(U1-PF6-Pad37).
+Connecter U1 pin 37 à unconnected-(U1-PF6-Pad37).
+Ajout net unconnected-(U1-PB0-Pad8).
+Connecter U1 pin 8 à unconnected-(U1-PB0-Pad8).
+Connecter U1 pin 4 à Net-(U1-D+).
+Ajout net unconnected-(U1-PB3-Pad11).
+Connecter U1 pin 11 à unconnected-(U1-PB3-Pad11).
+Ajout net unconnected-(U1-PB5-Pad29).
+Connecter U1 pin 29 à unconnected-(U1-PB5-Pad29).
+Ajout net unconnected-(U1-PB1-Pad9).
+Connecter U1 pin 9 à unconnected-(U1-PB1-Pad9).
+Ajout net unconnected-(U1-PD2-Pad20).
+Connecter U1 pin 20 à unconnected-(U1-PD2-Pad20).
+Connecter U1 pin 27 à Net-(U1-PD7).
+Connecter U1 pin 17 à Net-(U1-XTAL1).
+Ajout net unconnected-(U1-PD5-Pad22).
+Connecter U1 pin 22 à unconnected-(U1-PD5-Pad22).
+Connecter U1 pin 2 à 5V.
+Ajout net unconnected-(U1-AREF-Pad42).
+Connecter U1 pin 42 à unconnected-(U1-AREF-Pad42).
+Connecter U1 pin 13 à Net-(SW1-B).
+Ajout net unconnected-(U1-PC6-Pad31).
+Connecter U1 pin 31 à unconnected-(U1-PC6-Pad31).
+Ajout net unconnected-(U1-PF7-Pad36).
+Connecter U1 pin 36 à unconnected-(U1-PF7-Pad36).
+Ajout net unconnected-(U1-PF5-Pad38).
+Connecter U1 pin 38 à unconnected-(U1-PF5-Pad38).
+Ajout net unconnected-(U1-PC7-Pad32).
+Connecter U1 pin 32 à unconnected-(U1-PC7-Pad32).
+Connecter U1 pin 34 à 5V.
+Connecter U1 pin 15 à GND.
+Connecter U1 pin 23 à GND.
+Ajout net unconnected-(U1-PB2-Pad10).
+Connecter U1 pin 10 à unconnected-(U1-PB2-Pad10).
+Connecter U1 pin 25 à Net-(J2-In).
+Connecter U1 pin 43 à GND.
+Connecter U1 pin 3 à Net-(U1-D-).
+Ajout net unconnected-(U1-PD1-Pad19).
+Connecter U1 pin 19 à unconnected-(U1-PD1-Pad19).
+Ajout net unconnected-(U1-PF4-Pad39).
+Connecter U1 pin 39 à unconnected-(U1-PF4-Pad39).
+Ajout net unconnected-(U1-PD6-Pad26).
+Connecter U1 pin 26 à unconnected-(U1-PD6-Pad26).
+Connecter U1 pin 14 à 5V.
+Ajout net Net-(U1-XTAL2).
+Ajouté U2 (empreinte 'Package_TO_SOT_SMD:TSOT-23-6').
+Change la référence schématique de REF** en U2.
+Modifie valeur U2 de TSOT-23-6 en LMH6611.
+Mise à jour U2 association de symbole de  à /0f5da0ef-74cc-4e8e-93e5-e5414aee04dd.
+Mise a Jour des Champs de U2.
+Mis à jour U2 nom de feuille en /.
+Mis à jour U2 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte U2 mis à jour en 'TSOT*23*'.
+Connecter U2 pin 2 à GND.
+Connecter U2 pin 6 à 5V.
+Connecter U2 pin 1 à Net-(U2--).
+Connecter U2 pin 4 à Net-(U2--).
+Connecter U2 pin 3 à Net-(U2-+).
+Ajout net unconnected-(U2-~{DISABLE}-Pad5).
+Connecter U2 pin 5 à unconnected-(U2-~{DISABLE}-Pad5).
+Connecter C1 pin 1 à Net-(U1-XTAL2).
+Ajouté Y1 (empreinte 'Crystal:Crystal_HC49-U_Vertical').
+Change la référence schématique de REF** en Y1.
+Modifie valeur Y1 de Crystal_HC49-U_Vertical en Crystal.
+Mise à jour Y1 association de symbole de  à /1540b4d4-abe3-4d31-974d-9b897ede991c.
+Mise a Jour des Champs de Y1.
+Mis à jour Y1 nom de feuille en /.
+Mis à jour Y1 fichier de feuille en ATCE.kicad_sch.
+Filtres d'empreinte Y1 mis à jour en 'Crystal*'.
+Connecter Y1 pin 1 à Net-(U1-XTAL1).
+Connecter Y1 pin 2 à Net-(U1-XTAL2).
+
+
+Info: Total warnings: 0, erreurs: 0.
